@@ -1,0 +1,18 @@
+.contenedorImagenes {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    cursor: pointer;
+}
+
+#imgFondo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#llegaImagen {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
